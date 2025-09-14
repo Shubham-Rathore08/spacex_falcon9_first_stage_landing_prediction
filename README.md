@@ -36,8 +36,12 @@ The objective is to **predict whether the Falcon 9 first stage will land success
 ```
 spacex-falcon9-landing-prediction/
 │
-├── data/                  
-│   └── spacex_data.csv    
+├── data/                  # Small cleaned datasets
+│   ├── dataset_part_1.csv  
+│   ├── dataset_part_2.csv
+│   ├── dataset_part_3.csv
+│   ├── spacex_web_scraped.csv
+│   └── spacex_launch_dash.csv
 │
 ├── notebooks/             # Jupyter notebooks
 │   ├── 1_data_collection.ipynb
@@ -49,7 +53,7 @@ spacex-falcon9-landing-prediction/
 │   └── 7_predictive_analysis.ipynb
 │
 ├── dashboard/             # Final Plotly Dash app code
-│   ├── app.py           
+│   └── app.py           
 │
 ├── reports/               # Project report & presentation
 │   └── presentation.pdf
