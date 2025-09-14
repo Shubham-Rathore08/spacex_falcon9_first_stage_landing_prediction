@@ -79,8 +79,12 @@ spacex-falcon9-landing-prediction/
    - Green Marker: Indicates a successful launch.
    - Red Marker: Denotes a failed launch
 
-####
-![VAFB SLC-4E Screenshot](images/VAFB SLC-4E.png)
+#### VAFB SLC-4E 
+![VAFB SLC-4E Screenshot](images/VAFB-SLC-4E.png)
+#### KSC LC-39A 
+![KSC LC-39A Screenshot](images/KSC-LC-39A.png)
+#### CCAFS LC-40 & CCAFS SLC-40
+![CCAFS LC-40 & CCAFS SLC-40 Screenshot](images/CCAFS-LC-40-&-CCAFS-SLC-40.png)
 
 ## Results
 - Best performing model: **Decision Tree** (tuned with GridSearchCV)  
