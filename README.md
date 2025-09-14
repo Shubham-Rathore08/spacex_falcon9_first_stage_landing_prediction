@@ -88,12 +88,13 @@ spacex-falcon9-landing-prediction/
 
 ## Results
 - Best performing model: **Decision Tree** (tuned with GridSearchCV)  
-- Test Accuracy: **83.3%**  
+- Test Accuracy: **88.8%**  
 - Key factors influencing landing success:
   - Launch Site  
   - Payload Mass  
   - Booster Version  
   - Orbit Type
+![Test Accuracy Screenshot](images/test-accuracy.png)
 #### Confusion Matrix
 ![Confusion Matrix Screenshot](images/confusion-matrix.png)
   
