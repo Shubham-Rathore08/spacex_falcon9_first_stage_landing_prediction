@@ -33,6 +33,7 @@ The objective is to **predict whether the Falcon 9 first stage will land success
 
 ## Project Structure 
 
+```
 spacex-falcon9-landing-prediction/
 │
 ├── data/                  
@@ -57,7 +58,8 @@ spacex-falcon9-landing-prediction/
 ├── .gitignore            
 ├── LICENSE                
 ├── README.md              
-└── requirements.txt       
+└── requirements.txt
+``` 
 
 ## Dashboard 
 
