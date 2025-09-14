@@ -1,7 +1,7 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 _This project is my Capstone Project for the IBM Data Science Professional Certificate._
 
-_This project demonstrates end-to-end data science skills including data collection, wrangling, EDA, visualization, and machine learning. The final model achieves ~83% accuracy and provides an interactive dashboard for business insights._
+_This project demonstrates end-to-end data science skills including data collection, wrangling, EDA, visualization, and machine learning. The final model achieves ~88% accuracy and provides an interactive dashboard for business insights._
 
 ## Overview
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Predicting whether the first stage will successfully land plays a crucial role in determining the overall launch cost. Leveraging publicly available data and machine learning models. 
@@ -29,7 +29,7 @@ The objective is to **predict whether the Falcon 9 first stage will land success
 5. **Predictive Modeling**  
    - Machine Learning models: Logistic Regression, Decision Trees, SVM, KNN  
    - Hyperparameter tuning with GridSearchCV  
-   - Achieved **~83% accuracy** on test data
+   - Achieved **~88% accuracy** on test data
 
 ## Project Structure 
 
