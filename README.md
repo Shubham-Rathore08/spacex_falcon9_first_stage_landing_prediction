@@ -52,6 +52,8 @@ spacex-falcon9-landing-prediction/
 │   ├── 6_dashboard_plotly_dash.ipynb
 │   └── 7_predictive_analysis.ipynb
 │
+├── images/                # Contains Screenshots 
+│
 ├── dashboard/             # Final Plotly Dash app code
 │   └── app.py           
 │
