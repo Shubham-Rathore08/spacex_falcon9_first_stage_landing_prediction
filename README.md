@@ -109,8 +109,13 @@ git clone https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landin
 pip install -r requirements.txt
 ```
 3. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
+   - `notebooks/jupyter-labs-spacex-data-collection-api.ipynb`
+   - `notebooks/jupyter-labs-webscraping.ipynb`
+   - `notebooks/jupyter-labs-spacex-data-wrangling.ipynb`
+   - `notebooks/jupyter-labs-eda-sql.ipynb`
+   - `notebooks/EDA-data-visualization.ipynb`
+   - `notebooks/folium_viz.ipynb`
+   - `notebooks/spacex_ML_prediction.ipynb`
      
 4. Run the Plotly Dash dashboard:
    - The dashboard uses a preprocessed dataset spacex_launch_dash.csv (already provided in `data/`)
