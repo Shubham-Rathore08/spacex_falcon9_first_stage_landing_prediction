@@ -65,4 +65,8 @@ spacex-falcon9-landing-prediction/
     - Pie chart: Displays total successful launches across all sites.
     - Scatter Chart: Shows the correlation between outcome (success or not) and payload mass.
 
+![Dashboard Screenshot](images/dashboard.png)
 
+## Author & Contact
+**Shubham Rathore**
+📧 Email: shubhamrathore7078@gmail.com
