@@ -96,7 +96,7 @@ spacex-falcon9-landing-prediction/
   - Orbit Type
 ![Test Accuracy Screenshot](images/test-accuracy.png)
 #### Confusion Matrix
-![Confusion Matrix Screenshot](images/confusion-matrix.png)
+
   
 ## How to Run This Project
 
