@@ -68,6 +68,27 @@ spacex-falcon9-landing-prediction/
 
 ![Dashboard Screenshot](images/dashboard.png)
 
+## How to Run This Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Shubham-Rathore08/spacex_falcon9_first_stage_landing_prediction.git
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Open and run notebooks:
+   - `notebooks/exploratory_data_analysis.ipynb`
+   - `notebooks/vendor_performance_analysis.ipynb`
+     
+4. Run the Plotly Dash dashboard:
+   - The dashboard uses a preprocessed dataset spacex_launch_dash.csv (already provided in `data/`)
+   - To start the dashboard:
+        - dashboard/app.py
+
+
+
 ## Author & Contact
 **Shubham Rathore**
 📧 Email: shubhamrathore7078@gmail.com
